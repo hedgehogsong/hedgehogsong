@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=DB2777&center=true&vCenter=true&width=800&lines=Hi%20%F0%9F%91%8B%2C%20I%27m%20hedgehogsong~;Undergraduate%20%40%20Shanghai%20Jiao%20Tong%20University;AI%20and%20Coding%20Explorer;Feel%20free%20to%20contact%20me%21" alt="Typing SVG" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3000&pause=1000&color=DB2777&center=true&vCenter=true&width=620&lines=%F0%9F%91%80+Someone+is+visiting...+;%F0%9F%8C%B1+Welcome+to+my+little+corner~;%E2%9C%A8+Make+yourself+at+home%21;%F0%9F%92%A1+Math%2C+physics%2C+poetry+and+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3000&pause=1000&color=DB2777&center=true&vCenter=true&width=620&lines=%E5%97%A8%20%F0%9F%91%8B%EF%BC%8C%E6%88%91%E6%98%AF%20hedgehogsong~;%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6%E6%9C%AC%E7%A7%91%E7%94%9F;AI%20%E4%B8%8E%E7%BC%96%E7%A8%8B%E6%8E%A2%E7%B4%A2%E8%80%85;%E6%AC%A2%E8%BF%8E%E9%9A%8F%E6%97%B6%E8%81%94%E7%B3%BB%E6%88%91%EF%BC%81" alt="Typing SVG" />
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=hedgehogsong&color=DB2777&style=flat-square&label=Visitors" alt="Visitors" />
 </div>
