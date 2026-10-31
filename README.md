@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=DB2777&center=true&vCenter=true&width=800&lines=Hi%20%F0%9F%91%8B%2C%20I%27m%20hedgehogsong~;Undergraduate%20%40%20Shanghai%20Jiao%20Tong%20University;AI%20and%20Coding%20Explorer;Feel%20free%20to%20contact%20me%21" alt="Typing SVG" />
+</div>
+
+---
+
 ~~（哪位佬在光临我的主页？）~~<br>
 ~~(Who’s this legend visiting my profile page?)~~<br>
 ~~(Qui est cette légende qui visite mon profil ?)~~<br>
