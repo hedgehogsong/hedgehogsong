@@ -48,5 +48,5 @@
 > Anyway, feel free to contact me at songchengcheng@sjtu.edu.cn
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=DB2777&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=FFFFFF&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=DB2777&height=160&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=FFFFFF&fontAlignY=75&animation=twinkling" width="100%" />
 </div>
