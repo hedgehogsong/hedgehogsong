@@ -1,17 +1,10 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=DB2777&center=true&vCenter=true&width=800&lines=Hi%20%F0%9F%91%8B%2C%20I%27m%20hedgehogsong~;Undergraduate%20%40%20Shanghai%20Jiao%20Tong%20University;AI%20and%20Coding%20Explorer;Feel%20free%20to%20contact%20me%21" alt="Typing SVG" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=2500&pause=700&color=DB2777&center=true&vCenter=true&width=620&lines=%F0%9F%91%80+Someone+is+visiting...+;%F0%9F%8C%B1+Welcome+to+my+little+corner~;%E2%9C%A8+Make+yourself+at+home%21" alt="Typing SVG" />
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=hedgehogsong&color=DB2777&style=flat-square&label=Visitors" alt="Visitors" />
 </div>
-
----
-
-~~（哪位佬在光临我的主页？）~~<br>
-~~(Who’s this legend visiting my profile page?)~~<br>
-~~(Qui est cette légende qui visite mon profil ?)~~<br>
-~~(¿Quién es esta leyenda visitando mi perfil?)~~<br>
-~~(どなたが私のプロフィールに来てくれたの？)~~<br>
-~~(누가 내 프로필에 놀러 오셨나요?)~~<br>
-~~(Кто эта легенда зашла на мой профиль?)~~<br>
-~~(Chi è questa leggenda che visita il mio profilo?)~~
 
 ---
 
@@ -43,9 +36,17 @@
 > **SJTU Winter Camp**：Learned MATLAB.
 
 **大学**：学习C++进行时……
-> **SJTU**：SJTUCurrently learning C++...
+> **SJTU**：Currently learning C++...
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1600&pause=500&color=DB2777&center=true&vCenter=true&width=520&lines=%3C%2F%3E+C%2B%2B+Loading...;%E2%8C%A8%EF%B8%8F+Compiling+my+own+growth...;%F0%9F%9A%80+Keep+learning%2C+keep+building." alt="Typing SVG" />
+</div>
 
 ---
 
 📫 欢迎发邮件交流：**songchengcheng@sjtu.edu.cn**
 > Anyway, feel free to contact me at songchengcheng@sjtu.edu.cn
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=DB2777&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=FFFFFF&animation=twinkling" width="100%" />
+</div>
