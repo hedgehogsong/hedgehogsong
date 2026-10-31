@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=DB2777&center=true&vCenter=true&width=800&lines=Hi%20%F0%9F%91%8B%2C%20I%27m%20hedgehogsong~;Undergraduate%20%40%20Shanghai%20Jiao%20Tong%20University;AI%20and%20Coding%20Explorer;Feel%20free%20to%20contact%20me%21" alt="Typing SVG" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=2500&pause=700&color=DB2777&center=true&vCenter=true&width=620&lines=%F0%9F%91%80+Someone+is+visiting...+;%F0%9F%8C%B1+Welcome+to+my+little+corner~;%E2%9C%A8+Make+yourself+at+home%21" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=15&duration=3000&pause=1000&color=DB2777&center=true&vCenter=true&width=620&lines=%F0%9F%91%80+Someone+is+visiting...+;%F0%9F%8C%B1+Welcome+to+my+little+corner~;%E2%9C%A8+Make+yourself+at+home%21;%F0%9F%92%A1+Math%2C+physics%2C+poetry+and+code." alt="Typing SVG" />
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=hedgehogsong&color=DB2777&style=flat-square&label=Visitors" alt="Visitors" />
 </div>
