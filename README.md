@@ -10,8 +10,8 @@
 
 `#include <BriefInfo.h>`
 
-这里是 hedgehogsong，上海交通大学电子信息与电气工程学院的大一生。
-> Here’s hedgehogsong, a freshman at the School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University. 
+这里是 hedgehogsong，上海交通大学电气工程学院的2026级别本科生。
+> This is hedgehogsong, a 2026-entry undergraduate student at the School of Electrical Engineering, Shanghai Jiao Tong University.
 
 喜欢数学、物理、技术、古诗词。
 > Loving mathematics, physics, technology and classical Chinese poetry.
@@ -23,8 +23,8 @@
 **小学**：自学Visual Basic，VBS与VBA均略有涉猎。
 > **Primary S.**：Taught myself Visual Basic, with basic exposure to VBS and VBA.
 
-**初中**：自学html，编写过个人网站，因IP等原因未持续运营。
-> **Junior H.S.**：Self‑learned HTML and built a personal website, which was not maintained later due to IP‑related issues.
+**初中**：自学html，编写过个人网站。
+> **Junior H.S.**：Self‑learned HTML and built a personal website.
 
 **高中**：随班统一学习Python，自装Anaconda以提升编程水平。
 > **Senior H.S.**：Learned Python as part of school courses; installed Anaconda on my own to improve programming skills.
